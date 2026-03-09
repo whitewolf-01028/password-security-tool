@@ -86,7 +86,7 @@ Date: 2026-03-09
 
 Below is a demo of the Password Security Tool running in the terminal.
 
-![Password Security Tool Demo](screenshots/demo.png)
+![Password Security Tool Demo](screenshot/demo.png)
 
 ---
 
